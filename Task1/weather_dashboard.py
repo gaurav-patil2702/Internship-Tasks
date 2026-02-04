@@ -12,7 +12,7 @@ Steps:
 import requests
 import matplotlib.pyplot as plt
 
-API_KEY = "YOUR_API_KEY"
+API_KEY = "2ca399e158b8041d160926f8ee185847"
 CITY = "Mumbai"
 URL = f"https://api.openweathermap.org/data/2.5/forecast?q={CITY}&appid={API_KEY}&units=metric"
 
