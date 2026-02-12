@@ -1,12 +1,7 @@
 
 """
-Internship Task - API Integration and Data Visualization
+Internship Task 1 - API Integration and Data Visualization
 Public API Used: OpenWeatherMap
-
-Steps:
-1. Get a free API key from https://openweathermap.org/api
-2. Replace YOUR_API_KEY below.
-3. Run: python weather_dashboard.py
 """
 
 import requests
